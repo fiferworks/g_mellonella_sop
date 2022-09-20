@@ -1,0 +1,120 @@
+---
+title: 'STANDARD OPERATING PROCEDURES FOR THE MASS-REARING OF *GALLERIA MELLONELLA*'
+author: 'Austin N Fife'
+year: '`r format(Sys.time(), "%Y")`'
+month: '`r format(Sys.time(), "%B")`'
+knit: bookdown::render_book
+site: bookdown::bookdown_site
+commissioner: 'Nicole "Nikki" Fried'
+division: 'Plant Industry'
+director: 'Dr. Trevor Smith'
+bureau: 'Methods and Biological Control'
+bureau-chief: 'Dr. Eric Rohrig'
+
+# This will automatically install the {remotes} package and {thesisdown}
+# Change this to FALSE if you'd like to install them manually on your own.
+params:
+  'Install needed packages for {thesisdown}': True
+  
+# Remove the hashtag to specify which version of output you would like.
+# Can only choose one at a time.
+output:
+  thesisdown::thesis_pdf:
+    latex_engine: xelatex
+    fig_caption: yes
+    
+# Specify the location of the bibliography below
+bibliography: references.bib
+citation_package: biblatex
+biblio-style: apalike
+link-citations: true
+zotero: true
+
+# Download your specific csl file and refer to it in the line below.
+csl: csl/entsoc.csl
+
+# Add other entries into the list here if you'd like them to appear in the
+# bibliography even if they weren't explicitly cited in the document.
+
+nocite: | 
+ @Xie2021, @Xie2016, @Ismay2021
+
+space_between_paragraphs: true
+---
+
+```{=html}
+<!-- Above is the YAML (YAML Ain't Markup Language) header that includes a lot
+of metadata used to produce the document.  Be careful with spacing in this
+header! If you'd prefer to not include a Dedication, for example, simply delete
+the section entirely, or silence them (add # before each line). If you have
+other LaTeX packages you would like to include, delete the # before
+header-includes and list the packages after hyphens on new lines. If you'd like
+to include a comment that won't be produced in your resulting file enclose it in
+a block like this. If you receive a duplicate label error after knitting, make
+sure to delete the index.Rmd file and then knit again. -->
+```
+```{r include_packages, include=FALSE}
+# This chunk ensures that the thesisdown package is
+# installed and loaded. This thesisdown package includes
+# the template files for the thesis.
+if (!require(remotes)) {
+  if (params$`Install needed packages for {thesisdown}`) {
+    install.packages("remotes", repos = "https://cran.rstudio.com")
+  } else {
+    stop(
+      paste('You need to run install.packages("remotes")",
+            "first in the Console.')
+    )
+  }
+}
+if (!require(thesisdown)) {
+  if (params$`Install needed packages for {thesisdown}`) {
+    remotes::install_github("ismayc/thesisdown")
+  } else {
+    stop(
+      paste(
+        "You need to run",
+        'remotes::install_github("ismayc/thesisdown")',
+        "first in the Console."
+      )
+    )
+  }
+}
+library(thesisdown)
+# Set how wide the R output will go
+options(width = 70)
+
+pkgs <-
+  c(
+    "bookdown",
+    "thesisdown",
+    "showtext",
+    "extrafont",
+    "Cairo",
+    "tiff",
+    "usethis",
+    "tibble",
+    "knitr",
+    "kableExtra",
+    "devtools"
+  )
+
+#installs the packages if you don't have them already installed
+nu_pkgs <- pkgs[!(pkgs %in% installed.packages()[, "Package"])]
+if (length(nu_pkgs))
+  install.packages(nu_pkgs)
+
+#loading required packages
+lapply(pkgs, library, character.only = TRUE)
+rm(pkgs, nu_pkgs)
+
+# R global options
+knitr::opts_chunk$set(
+  fig.align = "center",
+  echo = FALSE,
+  out.width = "100%",
+  cache.comments = FALSE
+)
+```
+
+<!-- DO NOT WRITE HERE! ALL WRITING SHOULD BE DONE IN THE INDIVIDUAL FILES, WHICH REPRESENT DIFFERENT CHAPTERS OF THE DOCUMENT-->

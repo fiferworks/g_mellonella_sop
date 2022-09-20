@@ -1,0 +1,4 @@
+book_filename: "sop_g_mellonella_dundee"
+chapter_name: "Chapter "
+rmd_files: ["index.Rmd", "00-introduction.Rmd", "01-cages.Rmd", "02-diet.Rmd", "03-eggs.Rmd", "04-larvae.Rmd", "05-moths.Rmd", "06-shipping.Rmd", "07-sanitation.Rmd", "98-references.Rmd", "99-appendix.Rmd"]
+download: [["thesis.pdf", "PDF"], ["thesis.epub", "EPUB"], ["thesis.docx", "Word"]]
