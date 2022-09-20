@@ -1,0 +1,265 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+bibliography: references.bib
+---
+
+# SANITATION AND MAINTENANCE {#facility}
+
+## Materials
+
+-   beans
+
+## Methods
+
+-   beans
+
+## Daily Duties {#daily-duties}
+
+-   Sinks: Wash dishes using a mild detergent and rinse with 37.5 mls of
+    bleach per gallon of water. Empty and rinse sinks in all rooms at
+    end of day.
+-   Garbage: Remove garbage and place in freezer for 24 hour duration,
+    after which the material is taken to the dumpster.
+-   Counters and Table Tops: Spray surfaces with 10% bleach at the
+    beginning and end of work schedule.
+-   Floors: Sweep and Mop with bleach
+
+## Weekly Duties {#weekly-duties}
+
+-   Floors: Sweep all rooms (Q.C. 1,2,and 3), and mop with detergent and
+    water.
+
+## Monthly Duties {#monthly-duties}
+
+-   Apply standard quaternary ammonia solution to ceilings, cupboards
+    and drawers, lights, walls and doors using swivel head mop to the
+    following surfaces in Q.C. 1, 2, and 3.
+-   AC vents: Remove from the ceiling and spray with water, followed by
+    application of the standard solution of quaternary ammonia.
+
+As the above sanitation duties are completed, it is recorded on the
+Sanitation Checklist Form, SFL 01-10 (see Appendix A-7).
+
+## Rearing Area Organization {#rearing-organization}
+
+Persistence of contamination in lab reared insect colonies has led to
+separation of colony stages.
+
+-   Q.C. 1, has been designated a "dirty area" and as such is reserved
+    for the adult egg laying cages and contaminated cultures held for
+    recovery.
+
+-   Q.C. 2, has been designated "semi clean", and is reserved for
+    cultures 30 days or older (neonate larvae which have been
+    transferred to single cups, and later stages of the life cycle
+    including pupae and teneral adults).
+
+-   Q.C. 3, has been designated "clean", and as such is reserved for new
+    cultures only, and these cultures should be moved to Q.C. 2 at the
+    time of transfer.
+
+## Order of Duties {#order-of-duties}
+
+Organization and order of duties are directly related.
+
+-   Clean work should be performed in the morning prior to exposure of
+    equipment/ personnel to contaminants.
+
+-   Duties such as neonate transfers and sanitation of Q.C. 3 fall into
+    this category.
+
+-   Semi-clean work should be performed next.
+
+-   This includes separation of neonate larvae, transfers to fresh diet,
+    and sanitation of Q.C. 2.
+
+-   Dirty work should be performed last.
+
+-   This includes egg collection, cage maintenance, and sanitation of
+    Q.C. 1.
+
+-   Moving from dirty areas to clean ones should be avoided.
+
+-   It is important to keep in mind where you have been, and what has
+    been handled.
+
+## Supply Inventory {#supply-inventory}
+
+Supplies should be checked periodically to ensure that shortages do not
+occur.
+
+A list of needed items should be given to the immediate supervisor or
+purchaser, based on lead time necessary to obtain these items. (See
+Appendix A-1 for suppliers.)
+
+### Disposal and Cleaning Used Materials {#cleaning-used-mats}
+
+#### Disposal of flush removed from cage {#dispose-flush}
+
+1.  Dispose of in trash bags and take to the steamer, or freeze prior to
+    putting in dumpster.
+
+2.  Collect dirty vials, water cups, etc. and take to A105.
+
+3.  Wash vials and water cups and lids with dawn dish detergent and
+    scrub with bottle brushes OR rinse and put in a dishpan with
+    detergent to soak; then wash later.
+
+#### Disposal of water cups {#dispose-water}
+
+1.  Prior to washing water cups, remove cotton wicks, do not get
+    detergent on water wicks, can rinse with clean water, and gently
+    brush with small bottle brush.
+
+2.  Can reuse until they become soiled to the point that the above
+    cleaning methods are no longer effective.
+
+## Materials
+
+-   Parafilm®
+
+### Potato Dextrose Agar
+
+| Ingredient                                 | Amount | Unit        |
+|--------------------------------------------|--------|-------------|
+| Potato Infusion                            | 200    | grams       |
+| Dextrose                                   | 20     | grams       |
+| Agar                                       | 20     | grams       |
+| Sodium Chloride\*                          | 75     | grams       |
+| Deionized water                            | 1000   | milliliters |
+| Chlortetracycline-HCl (stock solution)\*\* | 4      | milliliters |
+
+: For culturing fungi. [@FDA2022; @FDA2020]
+
+\*Optional. Used to to make Potato Dextrose Salt Agar (PDS-A). Cultures
+fungi with spreading habits, such as *Mucor*, *Rhizopus*, and similar
+fungi [@Mislivec1991]. \*\*Optional. See \@ref(pda-antibio) and
+@Mislivec1991.
+
+### Nutrient Agar
+
+| Ingredient      | Amount | Unit        |
+|-----------------|--------|-------------|
+| Beef extract    | 3      | grams       |
+| Peptone         | 5      | grams       |
+| Agar            | 15     | grams       |
+| Deionized water | 1000   | milliliters |
+
+: For culturing bacteria. [@FDA2022; @FDA2020].
+
+## Methods
+
+### Testing for Environmental Contaminants {#environmental-microbiology}
+
+Follow the sanitation programs as described in \@ref(facility) and
+\@ref(sanitation-checklist) to prevent contamination of *Galleria*
+cultures. Monitor the levels of microbial contaminants weekly by 'air
+plating' agarose petri dishes to detect the relative quantities of mold,
+bacteria, and yeast present. Monitoring for microbial contaminants helps
+to ensure that the sanitation programs are effective and to make sure
+areas are adequately sterilized. The goal of sampling air quality is to
+quantify the number of particles of contaminant in the air, usually
+expressed in terms of the colony forming units (CFUs) per cubic meter of
+sampled air during a specific time period (CFU/m$^3$/time)
+[@Romano2015].
+
+Our lab uses two types of enriched agarose media to culture and detect
+contaminants: Potato Dextrose Agar (PDA) and Nutrient Agar, for fungi
+and bacteria, respectively.
+
+### Preparing Agarose Media {#prep-media}
+
+#### Nutrient Agar {#nutri-agar}
+
+-   Mix dry ingredients, then add to 1 L of DI water.
+
+-   Heat to boiling while stirring until ingredients are dissolved.
+
+-   Dispense into petri dishes.
+
+-   Once all the ingredients are completely dissolved, pour into
+    containers that can be autoclaved and autoclave for 15 min at 121
+    °C.
+
+-   Dispense 20-25 ml portions into sterile 15 × 100 mm petri dishes.
+
+-   Adjust final pH as needed to be 6.8 ± 0.2.
+
+#### Potato Dextrose Agar (PDA) {#make-up-pda}
+
+PDA medium powder is available commercially but you may need to add
+extra agar until there is a total of 20 g/liter of agar in the final
+product. For example, you would need to add 5 g of agar to BBL™ or
+Difco™ dehydrated medium to have a plate with the correct consistency.
+PDA medium should not be re-melted more than once.
+
+1.  Create potato infusion by boiling 200 g of sliced, unpeeled potatoes
+    in 1 L DI water for 30 mins.
+2.  Filter solution through cheesecloth and retain the liquid, which is
+    potato infusion. Alternatively, purchase dehydrated potato infusion
+    and prepare according to the manufacturer's instructions.
+3.  Mix in 20 g Dextrose and 20 g Agar with the 1 L of potato infusion,
+    then stir while bringing to a boil to dissolve the agar.
+4.  Once all the ingredients are completely dissolved, pour into
+    containers that can be autoclaved and autoclave for 15 min at 121
+    °C.
+5.  Dispense 20-25 ml portions into sterile 15 × 100 mm petri dishes.
+6.  Adjust final pH as needed to be 5.6 ± 0.2 pH.
+
+#### Preventing bacterial growth in PDA media {#pda-antibio}
+
+We want to focus on the fungi present in the PDA media, so if bacterial
+contamination becomes a problem, we can add an antibiotic to the media
+to avoid this issue. @Mislivec1991 mentions their preference for
+Chlortetracycline-HCl, but suggests that other antibiotics such as
+chloramphenicol or streptomycin can be used in addition to
+chlortetracycline-HCl. If adding an additional antibiotic, use the same
+concentration as the chlortetracycline-HCl (40 ppm).
+
+1.  Prepare a stock solution of Chlortetracycline-HCl by dissolving 19 g
+    of antibiotic in 100 ml of sterilized DI water
+2.  Filter stock solution through a 0.45 µm membrane (Nalge Sybron
+    Corp., Rochester, NY). and pour into an aluminum-wrapped amber
+    bottle.
+3.  Store stock solutions in the dark at 4-8 °C. A properly stored
+    solution should last for at least a month.
+4.  Allow stock solutions to reach room temperature immediately before
+    use.
+5.  PPM calculation: add 1 ml of 100 ml stock solution for every 250 ml
+    of media to obtain a concentration of 40 ppm.
+6.  Add Chlortetracycline-HCl to PDA media at a rate of 40 ppm (final
+    concentration) after agar has been autoclaved and cooled to 47-50
+    °C.
+7.  Mix thoroughly and dispense 20 ml portions into 15 × 100 mm petri
+    dishes.
+8.  Dispense 4 ml of stock filter-sterilized chlortetracycline HCl (1
+    g/100 ml) per liter of agarose medium.
+
+### Sedimentation Plates {#gravity-testing}
+
+An inexpensive and simple method of sampling for aerial microbes is with
+sedimentation plates, aka. settling plates. Sedimentation plates rely on
+gravity to cause airborne particles to land on the exposed surface of
+petri dishes filled with agarose media. These plates are then incubated
+for 48 hours and the number of CFUs are counted. Viable particles will
+grow into CFUs, which then can be counted to quantify the level of
+contamination in the area. In practice sedimentation plates have a bias
+towards larger particles, and tend to underestimate the number of
+smaller particles [@Bourdillon1941; @Schneider2009]. Due to these
+shortcomings, the use of sedimentation plates should be used as a
+preliminary assay only.
+
+#### Sedimentation plate assays {#sedimentation-plates}
+
+1.  Leave a petri dish of PDA and a dish of NA uncovered for 1 hour in
+    each area where insects or diet are handled. More plates can be
+    added for larger areas, or for specific point samples.
+2.  Replace lid of petri dish, and wrap the edges of the dish with
+    Parafilm®
+3.  Incubate plates in lab oven at 30 °C
+4.  Incubate for 2 days (48 hours) for NA media, and 4 days (96 hours)
+    for PDA media.
+5.  Record the number and type of microorganisms on the Environmental
+    Testing Datasheet (\@ref()) .

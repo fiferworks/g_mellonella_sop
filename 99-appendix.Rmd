@@ -1,0 +1,608 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+<!-- DON'T MESS WITH THE FOLLOWING CODE UNLESS YOU KNOW WHAT YOU ARE DOING! -->
+
+\docBodyfalse
+
+# APPENDIX {#appendix .unnumbered}
+
+## SOURCE DIRECTORY FOR *GALLERIA* MATERIALS {#source-directory}
+
+1oz Cups 1oz Cup Lids 1. Heritage Paper 822 N.W. 107 terr. Gainesville,
+FL 32606 (352-332-1417) 10.75" x 13" Plastic food container lids 1.
+Merton Restaurant Supplies. 207 W. Gore St. Orlando, FL 32806
+(407-425-4557) Citrus Root Weevil Premix 30 Cup Plastic Trays 1.
+Bioserve. P.O. Box 450 Frenchtown, NJ 08825 (908-996-2155) Benzoic Acid
+Methyl Paraben 3.5", 5" Petri Dishes 1. Fisher Scientific. 3970 Johns
+Creek ct. ste. 500 Suwannee, GA 30024 (1-800-766-7000) Agar 1. Coll-Chem
+Corp. P.O. Box 721 Ridgewood, NJ 07451 (201-445-6662) Zipper Top Bags
+(all sizes) Mineral Oil Organic Carrots Dawn Dish Soap Wax Paper 1.
+Publix. 125 S.W. 34th st. Gainesville, FL 32607 Bleach 1.Home Depot P.O.
+Box 9903 Macon, GA 31297-9903 Dental Wicks 1. Richmond Dental. P.O. Box
+34276 Charlotte, NC 28234 (1-800-277-0377)
+
+### DIAPREPES REARING SUPPLIES AND SOURCES:
+
+Product Product \# Source Link Dental Wick 200404 Richmond Dental
+Wrapped Rolls \| Richmond Dental
+
+24"x24"x24" Lumite Cage 1450DS BioQuip Search (bioquip.com) 1 oz (30 ml)
+clear portion containers (cups) Dart/Conex 100pc Webstaurant Store
+<https://www.webstaurantstore.com/dart-conex-complements-100pc-1-oz-translucent-plastic-souffle-portion-cup-case/301100PC.html>
+clear plastic lids for 100 PC cups PL100N Webstaurant Store
+<https://www.webstaurantstore.com/dart-solo-pl100n-small-clear-plastic-souffle-cup-lid-case/301PL100N.html>
+Pre-mix for Diaprepes Root Weevil F9855 Frontier Scientific Services
+[sales\@insectrearing.com](mailto:sales@insectrearing.com){.email} +1
+302-533-3540 \*Special order by request Agar 7060 Frontier Scientific
+Services <https://insectrearing.com/product/product-7060-agar/> Cup
+Trays -- 30 well 9040 Frontier Scientific Services Cup Tray-30 Wells
+(9040) - Frontier Scientific Services Agriculture (insectrearing.com)
+
+\clearpage
+
+```{=tex}
+\begin{landscape} %landscape page
+\section{\textit{DIAPREPES} EGGS AND NEONATE PRODUCTION DATASHEET}\label{egg-neo-datasheet}
+\begin{table}[!htbp]
+    \centering
+    \setlength{\tabcolsep}{0.5em}
+      \begin{threeparttable}
+        \rowcolors{2}{gray!10}{gray!40}
+              \begin{tabular}{|c|c|c|c|c|c|c|}
+            \toprule
+            {Cage ID} & {EC Week (Gen)} & {No. Eggs} & {No. Clusters} & {Infest Date} & {No. Larvae} & {No. Cups}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            \bottomrule
+            \end{tabular}
+        \begin{tablenotes}
+            \small
+            \item COMMENTS: \hfill{} rev. 09.02.2022 \\
+            \\
+            \\
+            \\
+        \end{tablenotes}
+    \end{threeparttable}
+\end{table}
+ \end{landscape}
+```
+
+```{=tex}
+\begin{landscape} %landscape page
+\section{\textit{DIAPREPES} GRUB, PUPAE AND ADULT PRODUCTION DATASHEET}\label{grub-adult-datasheet}
+\begin{table}[!htbp]
+    \centering
+    \setlength{\tabcolsep}{0.5em}
+      \begin{threeparttable}
+        \rowcolors{2}{gray!10}{gray!40}
+              \begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+            \toprule
+            {Cage ID} & {EC Week (Gen)} & {Transfer Date} & {No. Grubs} & {Pupation Date} & {No. Pupae} & {Emerge Date} & {No. Adults} & {No. to Cages}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            \bottomrule
+            \end{tabular}
+        \begin{tablenotes}
+            \small
+            \item COMMENTS: \hfill{} rev. 09.02.2022 \\
+            \\
+            \\
+            \\
+        \end{tablenotes}
+    \end{threeparttable}
+\end{table}
+ \end{landscape}
+```
+
+
+```{=tex}
+\clearpage
+\newpage
+```
+
+```{=tex}
+\begin{landscape} %landscape page
+\section{\textit{DIAPREPES} DISCARD DATASHEET}\label{discard-datasheet}
+\begin{table}[!htbp]
+    \centering
+    \setlength{\tabcolsep}{0.5em}
+      \begin{threeparttable}
+        \caption*{Month$\colon$}
+        \rowcolors{2}{gray!10}{gray!40}
+              \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+            \toprule
+            \hline
+            {Generation} & {Date} & {No. Cups} & {L} & {G} & {P} & {A} & {Mold} & {Mites} & {Bacteria} & {Dead} & {Slow} & {Elytra} & {Other}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            \bottomrule
+            \end{tabular}
+        \begin{tablenotes}
+            \small
+            \item COMMENTS: \hfill{} rev. 08.26.2022 \\\
+            \\
+            \\
+            \
+        \end{tablenotes}
+    \end{threeparttable}
+\end{table}
+ \end{landscape}
+```
+
+```{=tex}
+\clearpage
+\newpage
+```
+
+```{=tex}
+\begin{landscape} %landscape page
+\section{AUTOCLAVE LOGSHEET}\label{autoclave-logheet}
+\begin{table}[!htbp]
+    \centering
+    \setlength{\tabcolsep}{0.5em}
+      \begin{threeparttable}
+      \captionsetup{justification=centering}
+        \caption*{\textbf{All loads containing biohazardous waste must be autoclaved at 121 $^{\circ}$C for a minimum of 30 minutes}}
+        \rowcolors{2}{gray!10}{gray!40}
+              \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
+            \toprule
+            \hline
+            \multicolumn{2}{|l|}{Autoclave make/model} & \multicolumn{3}{|l|}{} & \multicolumn{2}{|l|}{Location} & \multicolumn{4}{|l|}{}\\
+            \hline
+            \multicolumn{2}{|l|}{Facility name} & \multicolumn{3}{|l|}{} & \multicolumn{2}{|l|}{Supervisor name} & \multicolumn{4}{|l|}{}\\
+            \hline
+            \multicolumn{2}{|l|}{Lab manager} & \multicolumn{3}{|l|}{} & \multicolumn{2}{|l|}{Phone number} & \multicolumn{4}{|l|}{}\\
+            \hline
+            {Date} & {Contents} & {Cycle No.} & {Cycle Type} & {Time (min)} & {Pressure (bar)} & {Temp} & {Tape Result} & {CI?} & {BI?} & {Operator}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            \bottomrule
+            \end{tabular}
+        \begin{tablenotes}
+            \small
+            \item COMMENTS: \hfill{} rev. 08.30.2022 \\
+        \end{tablenotes}
+    \end{threeparttable}
+\end{table}
+ \end{landscape}
+```
+
+```{=tex}
+\clearpage
+\newpage
+```
+
+
+```{=tex}
+\begin{landscape} %landscape page
+\section{\textit{DIAPREPES} SHIPPING DATASHEET}\label{shipping-datasheet}
+\begin{table}[!htbp]
+    \centering
+    \setlength{\tabcolsep}{0.5em}
+      \begin{threeparttable}
+        \caption*{Month$\colon$}
+        \rowcolors{2}{gray!10}{gray!40}
+              \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+            \toprule
+            \hline
+            {Generation} & {Ship Date} & {E} & {L} & {G} & {P} & {A} & {Recipient Name} & {Use Category} & {Notes}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {} & {} & {} & {} & {}\\
+            \hline
+            \bottomrule
+            \end{tabular}
+        \begin{tablenotes}
+            \small
+            \item COMMENTS: \hfill{} rev. 08.26.2022 \\
+            \\
+            \\
+            \\
+        \end{tablenotes}
+    \end{threeparttable}
+\end{table}
+ \end{landscape}
+```
+
+```{=tex}
+\clearpage
+\newpage
+```
+
+```{=tex}
+\section{SANITATION CHECKLIST}\label{sanitation-checklist}
+  \subsection{AREA: Grub Rooms and Clean Room}
+\begin{table}[!htbp]
+    \centering
+    \setlength{\tabcolsep}{0.5em}
+      \begin{threeparttable}
+        \caption*{DATE$\colon$ \hfil  FROM$\colon$ \hfil TO$\colon$}
+        \rowcolors{2}{gray!10}{gray!40}
+              \begin{tabular}{|l|l|c|c|c|c|c|c|c|}
+            \hline
+            {} & {Cleaner} & {SUN} & {MON} & {TUES} & {WED} & {THURS} & {FRI} & {SAT} \\
+            \hline
+            {\textbf{CLEAN DAILY}} & {} & {} & {} & {} & {} & {} & {} & {} \\
+            \hline
+            {Dustmop/sweep} & {} & {} & {} & {} & {} & {} & {} & {} \\
+      \hline
+      {Empty/Clean Sinks} & {bleach} & {} & {} & {} & {} & {} & {} & {} \\
+        \hline
+        {Clean Countertops} & {bleach} & {} & {} & {} & {} & {} & {} & {} \\
+        \hline
+        {Clean Utensils} & {autoclave} & {} & {} & {} & {} & {} & {} & {} \\
+        \hline
+        {Spot mop} & {bleach} & {} & {} & {} & {} & {} & {} & {} \\
+        \hline
+        {} & {} & {} & {} & {} & {} & {} & {} & {} \\
+        \hline
+        {\textbf{CLEAN WEEKLY}} & {} & {} & {} & {} & {} & {} & {} & {} \\
+            \hline
+            {Wet mop floors} & {detergent} & {} & {} & {} & {} & {} & {} & {} \\
+        \hline
+        {Recycling/garbage} & {} & {} & {} & {} & {} & {} & {} & {} \\
+        \hline
+        {Clean horizontal surfaces} & {quat ($NR_{4}^{+}$)} & {} & {} & {} & {} & {} & {} & {} \\
+        \hline
+        {} & {} & {} & {} & {} & {} & {} & {} & {} \\
+        \hline
+        {} & {} & {} & {} & {} & {} & {} & {} & {} \\
+        \hline
+        {} & {} & {} & {} & {} & {} & {} & {} & {} \\
+        \hline
+        {} & {} & {} & {} & {} & {} & {} & {} & {} \\
+        \hline
+        {\textbf{CLEAN MONTHLY}} & {} & {} & {} & {} & {} & {} & {} & {} \\
+            \hline
+            {AC vents} & {quat ($NR_{4}^{+}$)} & {} & {} & {} & {} & {} & {} & {} \\
+        \hline
+        {Ceilings} & {quat ($NR_{4}^{+}$)} & {} & {} & {} & {} & {} & {} & {} \\
+        \hline
+        {Humidifiers} & {quat ($NR_{4}^{+}$)} & {} & {} & {} & {} & {} & {} & {} \\
+        \hline
+        {Cupboards} & {quat ($NR_{4}^{+}$)} & {} & {} & {} & {} & {} & {} & {} \\
+        \hline
+        {Lights} & {quat ($NR_{4}^{+}$)} & {} & {} & {} & {} & {} & {} & {} \\
+        \hline
+        {Walls/Doors} & {quat ($NR_{4}^{+}$)} & {} & {} & {} & {} & {} & {} & {} \\
+        \hline
+            \end{tabular}
+        \begin{tablenotes}
+            \small
+            \item COMMENTS: \hfill{} rev. 08.26.2022 \\
+            \\
+            \\
+            \\
+        \end{tablenotes}
+    \end{threeparttable}
+\end{table}
+```
+
+```{=tex}
+\clearpage
+\newpage
+```
+
+```{=tex}
+\section{ARTIFICIAL DIET LOG}\label{diet-log}
+\begin{table}[!htbp]
+    \centering
+    \setlength{\tabcolsep}{1em}
+      \begin{threeparttable}
+        \rowcolors{2}{gray!10}{gray!40}
+              \begin{tabular}{|l|l|l|l|l|l|}
+            \hline
+            {Initials} & {Date} & {Notes} & {Initials} & {Date} & {Notes}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            {} & {} & {} & {} & {} & {}\\
+            \hline
+            \end{tabular}
+        \begin{tablenotes}
+            \small
+            \item COMMENTS: \hfill{} rev. 08.26.2022 \\
+            \\
+            \\
+            \\
+        \end{tablenotes}
+    \end{threeparttable}
+\end{table}
+```
+```{=tex}
+\clearpage
+\newpage
+```
+## TODO: CAGE FEEDING AND MAINTENANCE CHECKLIST
+
+-   Fresh flush bouquets in cage
+-   Fresh water cups in cage
+-   New egg strips in cage
+-   No standing water in bottom of cage
+-   Check around cage and under shelf for any escapees and place back in
+    cage if found
+-   Check that tape and marker have been returned to storage box and the
+    lid is closed
+-   Lid is on trash can
+-   At end of week take trash bag of trash out
+-   Cage and room door are closed securely
+
+<!-- END APPENDICIES -->
+
+<!--  Reset the chapter command back to normal now that appendix is done. -->
+
+```{=tex}
+\let\chapter\appendixChapter
+\titleformat{\appendixChapter}[hang]{\uppercase}{}{0pt}{\centering\realSingleSpace\ifdocBody CHAPTER \thechapter \\[-5pt] \fi}\raggedright\doublespacing
+```

@@ -1,0 +1,31 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+bibliography: references.bib
+---
+
+# TRANSFERRING NEONATE LARVAE {#neonate-transfer}
+
+## Materials
+
+-   Büchner funnel
+-   Fast flow filter paper
+
+## Methods
+
+### Creating a Grub Shaker {#make-grub-shake}
+
+Transferring newly hatched
+
+### Surface Sterilizing Neonate Larvae {#sterilizing-neonates}
+
+Any fungal spores or bacteria on the skin of the larvae will be
+transferred directly to the diet cups, so it is necessary to sterilize
+the larvae before they are transferred to avoid contamination.
+Transferring larvae should be done in a clean room on a sanitized
+surface, while wearing surgical gloves, facemasks, and hairnets to
+reduce the risks of microbial contamination.
+
+1.  Sanitize any surfaces and utensils which will be used by spraying
+    and wiping the work space with 75% isopropyl alcohol.

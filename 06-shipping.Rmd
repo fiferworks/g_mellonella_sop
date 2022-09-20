@@ -1,0 +1,61 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+bibliography: references.bib
+---
+
+# SHIPPING {#shipping}
+
+```{=tex}
+\textbf{Ship overnight on the sender's account number for institutions
+(Universities, USDA, researchers, etc.) and on our own account number
+for civilians. Include a return label as necessary. Remember to include a copy of our permit when shipping pests like \textit{Diaprepes!}}
+```
+## Larvae and Pupae {#ship-larvae-pupae}
+
+Larvae and Pupae can be shipped in 50 ml centrifuge tubes with diet.
+
+1.  Place cups with diet and larvae in 50 ml centrifuge tube  trays and place 2
+    trays in a large Ziploc®-style plastic freezer baggie.
+
+2.  Put bagged trays together in a larger bag or trash bag.
+
+3.  Put in appropriate size box, fill space with bubble wrap or air
+    bags, etc.
+
+4.  Tape box well, reinforce the bottom of the box with tape.
+
+5.  Label with 'This side up' before shipping.
+
+## Adults {#ship-adults}
+
+Teneral adults in their diet cups can be shipped as-is, in the same way
+we ship larvae.
+
+1.  Adults from cages can be shipped in an empty clean diet cup with a
+    damp dental wick.
+
+2.  Ship with a ice pack wrapped a paper towel.
+
+3.  Do not use an ice pack for teneral adults.
+
+## Eggs {#ship-eggs}
+
+Eggs are more fragile, but can still be shipped if needed.
+
+1.  If shipping eggs, ship freshly laid eggs, eggs about to hatch do not
+    survive well.
+
+2.  Double-bag eggs in small to medium ziploc baggies with the air
+    gently squeezed out from the bag to prevent desiccation.
+
+3.  \textbf{Be careful not to squash eggs when squeezing out air!}
+
+4.  Ensure both zippers on the plastic baggie are sealed well.
+
+5.  Place the nested baggies into a large bag inflated with air, to help
+    protect eggs from damage.
+
+6.  Pack the baggies in a small box with plenty of bubble wrap or air
+    bags.

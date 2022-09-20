@@ -1,0 +1,24 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+bibliography: references.bib
+---
+
+# TRANSFERRING MOTHS {#moth-transfers}
+
+## Materials
+
+-   Forceps
+-   Soft forceps
+
+## Methods
+
+The original diet cups become overcrowded around 4 weeks (\~28 days) as
+the larvae grow.
+
+### Sanitizing and Preparing Grubs for Transfer
+
+1.  Cups contaminated with bacteria or mold should be removed prior to
+    separation of grubs and recorded as losses on the *Galleria*
+    discard datasheet, \@ref(discard-datasheet).

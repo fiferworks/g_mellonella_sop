@@ -1,0 +1,42 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+bibliography: references.bib
+---
+
+# THE GREATER WAX MOTH, *GALLERIA MELLONELLA* {#crw}
+
+## Introduction {#introduction}
+
+> "Know your insect"
+>
+> \textemdash Allen Carson Cohen
+
+moth intro
+
+This document will continue to be updated to include the newest research relevant to the DBCL's research goals, and should be considered a work-in-progress. This SOP includes some adaptions based on the resources available at our rearing facility at the DBCL, your facility may require significant adaptations in order to fulfill your rearing needs. With that being said, these operating procedures come with no *guarantee* of suitability for any particular purpose. Even so, we wish you the best of luck in your endeavors to mass-rear these beautiful invertebrates.
+
+\newpage \clearpage
+
+## Moth Development Timeline {#moth-timeline}
+
+moths
+
+-   lifecycle   
+
+## ETHICAL AND HUMANE TREATMENT OF ORGANISMS {#ethics}
+
+We at the Dundee Biological Control Laboratory strongly encourage that each lab adopt a policy for the humane and ethical treatment of the organisms they work with.
+
+1.  Recognizing the diversity and complexity of life systems, we value all living things
+2.  In light of this value, we try to design our work to help us understand the nature of life and living systems with a minimum of harm to or discomfort of living organisms
+3.  We treat the subjects of our studies with respect, dignity, and with efforts to inflict a minimum of pain, trauma, or damage. This includes using, whenever possible, physical models instead of living systems to conduct our experiments.
+4.  We first consider ways that can inflict a minimum of potential harm to organisms and we ask the question: is the experiment necessary to give us the information we seek? Is the information of sufficient value to merit such sacrifices?
+5.  Furthermore, we subscribe to the tenet that the information derived from studies of organisms can be no better than the health, homeostasis, and minimization of stress of the organisms involved. Therefore, we strive to make our rearing systems and every other aspect of our handling of insects compatible with insect well-being.
+
+Translation of these tenets into practice:
+
+1.  We use the concept of insect homeostasis of "comfort" in the sens that sensitive and reasonable thought about our insect handling can suggest guidelines about issues like food quality, space, management of waste, access to avoidance of adverse stimuli, sufficient gas exchange, protection from contaminants and pathogens, and all other aspects of insects' well-being as it would pertain to the populations of insects in the wild
+2.  We subscribe to the model that teaches that well-treated insects are closer to "normal" insects from the wild. Such insects are of higher quality than ones that have been reared under suboptimal conditions. Therefore, we believe that our science is better when all aspects of our inquires are conducted with the highest possible quality of components.
+3.  Therefore, our research into development and improvement of rearing systems keeps at its forefront the homeostasis of the insects subjects in our studies, and we further strive continuously to improve the base of knowledge for the scientific community to improve the conditions of rearing systems and the quality and well-being of the subjects.

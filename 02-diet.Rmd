@@ -1,0 +1,51 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+bibliography: references.bib
+---
+
+# WAXMOTH ARTIFICIAL DIETS {#art-diet-prep}
+
+## Materials
+
+-   Diet ingredients, see below
+
+### Optimized Diet for *Galleria mellonella* {#optimized-diet}
+
+| Ingredient      | Amount | Unit        | Percentage of diet |
+|-----------------|--------|-------------|--------------------|
+| Oat bran        | 14     | grams       | 4.9%               |
+| Wheat bran      | 34     | grams       | 12.0%              |
+| Rice bran       | 20     | grams       | 7.1%               |
+| Torula yeast    | 42     | grams       | 14.8%              |
+| Beeswax         | 11     | grams       | 3.9%               |
+| Honey           | 68     | grams       | 24.0%              |
+| Glycerol        | 64     | grams       | 22.6%              |
+| Deionized water | 30     | milliliters | 10.6%              |
+
+: From @Hickin2021.
+
+This is the preferred diet used for mass-rearing *Galleria mellonella.*
+
+```{=tex}
+\clearpage
+\newpage
+```
+
+### Historical Artificial Diet {#old-diet}
+
+| Ingredient               | Amount | Unit        |
+|--------------------------|--------|-------------|
+| Cellulose                | 307    | grams       |
+
+: For reference only, not recommended for use in mass-rearing.
+
+## Methods
+
+### Sanitation Before Making Artificial Diet {#pre-sanitation}
+
+beans
+
+### Diet Preparation Instructions {#diet-prep}
+
